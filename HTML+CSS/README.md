@@ -1,6 +1,15 @@
 The CSS3 standard adds a number of features to the language, including [Media Queries](https://en.wikipedia.org/wiki/Media_queries), which allow designers to declare that content should be shown or styled differently depending on the medium it's presented on. The intended use case is e.g., to hide unnecessary images or backgrounds when printing, or to adjust the display style for mobile vs desktop browsers. Here, we use them to alter a contract's price when printed. Note that no JavaScript or other features commonly blocked by security-conscious users is necessary to do this.
 
-All modern browsers support CSS Media queries, and [many](https://caniuse.com/#feat=css-mediaqueries) not-so modern ones do too. [This proof-of-concept](contract.html) should therefore work on nearly any browser. It is a stock sales contract that shows an on-screen price of $10,000, but changes the price to $50,000 when printed.
+
+# The Proof-of-Concept
+
+All modern browsers support CSS Media queries, and [many](https://caniuse.com/#feat=css-mediaqueries) not-so modern ones do too. [This proof-of-concept](contract.html) should therefore work on nearly any browser. It is a stock sales contract that shows an on-screen price of $10,000:
+
+![Screenshot of the web page as rendered on screen](screen.png)
+
+...but changes the price to $50,000 when printed:
+
+![Screenshot of the web page as rendered in print](print.png)
 
 # Demo CSS
 
