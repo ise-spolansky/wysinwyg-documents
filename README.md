@@ -11,5 +11,5 @@ The documents contained in this repository are based on a sale of goods contract
 
 # Current Proofs-of-Concepts
 
-- [PDF](PDF/) --- We use PDF Optional Content Groups to show different content in print and on screen
-- [HTML+CSS](HTML+CSS/) --- We use CSS Media Queries to show different content in print and on screen
+- [PDF](PDF/) &mdash; We use PDF Optional Content Groups to show different content in print and on screen
+- [HTML+CSS](HTML+CSS/) &mdash; We use CSS Media Queries to show different content in print and on screen
