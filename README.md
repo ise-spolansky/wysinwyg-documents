@@ -8,3 +8,8 @@ The documents contained in this repository are based on a sale of goods contract
 - the document itself
 - any source code or source markup (e.g., LaTeX for PDFs)
 - a PDF and/or PNG screenshots showing the difference between the document as displayed and as printed. Showing the documents as printed is accomplished by using a print to PDF printer.
+
+# Current Proofs-of-Concepts
+
+- [PDF](PDF/) --- We use PDF Optional Content Groups to show different content in print and on screen
+- [HTML+CSS](HTML+CSS/) --- We use CSS Media Queries to show different content in print and on screen
